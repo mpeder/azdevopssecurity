@@ -9,6 +9,8 @@ Pipelines in the context of Azure DevOps covers both build (CI) and release pipe
 
 For a general introduction to the security in the Azure DevOps service please see the [security whitepaper](https://docs.microsoft.com/en-us/azure/devops/articles/team-services-security-whitepaper?view=azure-devops).
 
+If you are interested in DevSecOps from a cultural perspective I would recommend this article: [https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/security-in-devops](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/security-in-devops)
+
 ## Practices
  1. [Secure Your Azure DevOps Account][1]
  2. [Know Your Azure DevOps Account & Projects][2]
@@ -23,7 +25,6 @@ For a general introduction to the security in the Azure DevOps service please se
  11. [Share Configuration Across Pipelines][11]
  12. [Secure Service Principals][12]
  13. [Use Azure Key Vault][13]
- 14. [Containers at Scale Require Additional Governance][14]
 
 
 [1]: /practices-docs/01-practice.md
@@ -39,6 +40,5 @@ For a general introduction to the security in the Azure DevOps service please se
 [11]: /practices-docs/11-practice.md
 [12]: /practices-docs/12-practice.md
 [13]: /practices-docs/13-practice.md
-[14]: /practices-docs/14-practice.md
 
-Current version: v0.6
+Current version: v1.0
