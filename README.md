@@ -7,21 +7,23 @@ I would love to get feedback on the content and I am looking expading and updati
 
 Pipelines in the context of Azure DevOps covers both build (CI) and release pipelines (CD). Most of the stuff here is related to Azure DevOps when deploying to Azure, but might be applicable in many other situations as well. Feel free to use the information anyway you want - see the [LICENSE](LICENSE)
 
+For a general introduction to the security in the Azure DevOps service please see the [security whitepaper](https://docs.microsoft.com/en-us/azure/devops/articles/team-services-security-whitepaper?view=azure-devops).
+
 ## Practices
  1. [Secure Your Azure DevOps Account][1]
- 2. [Know Your Azure DevOps Account & Projects][1]
- 3. [Understand the Main Security Concepts in Azure DevOps][1]
- 4. [Design & Maintain Your Pipelines][1]
- 5. [Setup Detailed Permissions for Pipeline][1]
- 6. [Use Approvals, Gates & Pull Requests][1]
- 7. [Use Continuous Security Tools in Pipelines][1]
- 8. [Use Artifacts for Package Management][1]
- 9. [Implement Regular Azure Governance][1]
- 10. [Understand Security in Agents and Agent Pools][1]
- 11. [Share Configuration Across Pipelines][1]
- 12. [Secure Service Principals][1]
- 13. [Use Azure Key Vault][1]
- 14. [Containers at Scale Require Additional Governance][1]
+ 2. [Know Your Azure DevOps Account & Projects][2]
+ 3. [Understand the Main Security Concepts in Azure DevOps][3]
+ 4. [Design & Maintain Your Pipelines][4]
+ 5. [Setup Detailed Permissions for Pipeline][5]
+ 6. [Use Approvals, Gates & Pull Requests][6]
+ 7. [Use Continuous Security Tools in Pipelines][7]
+ 8. [Use Artifacts for Package Management][8]
+ 9. [Implement Regular Azure Governance][9]
+ 10. [Understand Security in Agents and Agent Pools][10]
+ 11. [Share Configuration Across Pipelines][11]
+ 12. [Secure Service Principals][12]
+ 13. [Use Azure Key Vault][13]
+ 14. [Containers at Scale Require Additional Governance][14]
 
 
 [1]: /practices-docs/01-practice.md
