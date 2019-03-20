@@ -1,7 +1,7 @@
 # Azure DevOps: Recommended Practices for Secure Pipelines
 
 ## Introduction
-This repos started as part of bulding a customer presentation. After digging into it I found that I could keep on adding content related to this topic. So this is an attempt on doing so in a structured way. 
+This repos started as part of building a customer presentation. After digging into it I found that I could keep on adding content related to this topic. So this is an attempt on doing so in a structured way. 
 
 I would love to get feedback on the content and would like to keep expanding and updating the content. So please add your comments/issues and I will look into it when I have time :-)
 
