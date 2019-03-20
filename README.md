@@ -1,11 +1,11 @@
 # Azure DevOps: Recommended Practices for Secure Pipelines
 
 ## Introduction
-This repos started after a customer presentation on this topic. After digging into it I found that I could keep on adding content related to this topic. These are my personal recommendations! No guarantees of any kind provided! 
+This repos started as part of bulding a customer presentation. After digging into it I found that I could keep on adding content related to this topic. So this is an attempt on doing so in a structured way. 
 
-I would love to get feedback on the content and I am looking expading and updating it. So please add your comments/issues and I will look into it when I have time :-)
+I would love to get feedback on the content and would like to keep expanding and updating the content. So please add your comments/issues and I will look into it when I have time :-)
 
-Pipelines in the context of Azure DevOps covers both build (CI) and release pipelines (CD). Most of the stuff here is related to Azure DevOps when deploying to Azure, but might be applicable in many other situations as well. Feel free to use the information anyway you want - see the [LICENSE](LICENSE)
+Pipelines in the context of Azure DevOps covers both build (CI) and release pipelines (CD). Most of the stuff here is related to Azure DevOps when deploying to Azure, but might be equally applicable in many other situations as well. Feel free to use the information anyway you want - see the [LICENSE](LICENSE). These are my _personal_ recommendations! No guarantees of any kind given and I am not responsible for any damages :-)
 
 For a general introduction to the security in the Azure DevOps service please see the [security whitepaper](https://docs.microsoft.com/en-us/azure/devops/articles/team-services-security-whitepaper?view=azure-devops).
 
@@ -40,3 +40,5 @@ For a general introduction to the security in the Azure DevOps service please se
 [12]: /practices-docs/12-practice.md
 [13]: /practices-docs/13-practice.md
 [14]: /practices-docs/14-practice.md
+
+Current version: v0.6
