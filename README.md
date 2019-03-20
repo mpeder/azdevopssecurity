@@ -23,7 +23,7 @@ If you are interested in DevSecOps from a cultural perspective I would recommend
  9. [Implement Regular Azure Governance][9]
  10. [Understand Security in Agents and Agent Pools][10]
  11. [Share Configuration Across Pipelines][11]
- 12. [Secure Service Principals][12]
+ 12. [Secure Service Connections & Service Principals][12]
  13. [Use Azure Key Vault][13]
 
 
