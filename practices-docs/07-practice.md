@@ -14,8 +14,11 @@
     - Creadentials not never be checked in to your repos
     - These tools look for secrets, password and usernames in the code checked in to your repos and can then fail a build or deployments
     - An example of such a tool is the Credential Scanner (aka CredScan)
+- External library Scanning
+    - External dependencies such as Maven, NuGet or NodeJS packages will have security vulnerabilities
+    - Use tools suck as Source Clear, Black Duck etc
 - Container Image Scanning
-    - There is a lot of extra scanning required when using containers.
+    - Just like external dependencies, you build on 3rd party image layers for your container, so vet these too
     - Some great tools for this is WhiteSource, Black Duck, Aqua and Twistlock
     - These can also be integrated with Azure Container Registry
 - Secure DevOps Kit for Azure & Microsoft Security Code Analysis is a great collection of tools that can easily be integrated into Azure DevOps Pipelines
