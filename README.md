@@ -25,6 +25,7 @@ If you are interested in DevSecOps from a cultural perspective I would recommend
  11. [Share Configuration Across Pipelines][11]
  12. [Secure Service Connections & Service Principals][12]
  13. [Use Azure Key Vault][13]
+ 14. [Manage Extensions][14]
 
 
 [1]: /practices-docs/01-practice.md
@@ -40,5 +41,6 @@ If you are interested in DevSecOps from a cultural perspective I would recommend
 [11]: /practices-docs/11-practice.md
 [12]: /practices-docs/12-practice.md
 [13]: /practices-docs/13-practice.md
+[14]: /practices-docs/14-practice.md
 
-Current version: v1.0
+Current version: v1.1
