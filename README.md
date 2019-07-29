@@ -26,6 +26,7 @@ If you are interested in DevSecOps from a cultural perspective I would recommend
  12. [Secure Service Connections & Service Principals][12]
  13. [Use Azure Key Vault][13]
  14. [Manage Extensions][14]
+ 15. [Use Pipeline Decorators][15]
 
 
 [1]: /practices-docs/01-practice.md
@@ -42,5 +43,8 @@ If you are interested in DevSecOps from a cultural perspective I would recommend
 [12]: /practices-docs/12-practice.md
 [13]: /practices-docs/13-practice.md
 [14]: /practices-docs/14-practice.md
+[15]: /practices-docs/15-practice.md
 
-Current version: v1.1
+Current version: v1.2
+Last update: 29-07-2019
+Major changes: Added #15 "Use Pipeline Decorators"
