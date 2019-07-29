@@ -13,5 +13,9 @@
     - Easier if you use IaC and Pipelines as Code
 - Provide guidance on ”good” pipelines design in your environments so that projects/teams can easily adopt the practices relevant in your organization
 
+## Links
+- Also see #15 [Use Pipeline Decorators][1]
+
+[1]: /practices-docs/15-practice.md
 
 
