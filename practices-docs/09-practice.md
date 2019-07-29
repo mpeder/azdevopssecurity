@@ -21,7 +21,7 @@
 [1]: https://docs.microsoft.com/en-us/azure/role-based-access-control/overview 
 [2]: https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/governance/resource-consistency/azure-resource-access
 [3]: https://docs.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals
-[4]: [https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags]
-[5]: [https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources]
+[4]: https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags
+[5]: https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources
 [6]: https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
-[7]: [https://docs.microsoft.com/en-us/azure/governance/policy/overview]
+[7]: https://docs.microsoft.com/en-us/azure/governance/policy/overview
