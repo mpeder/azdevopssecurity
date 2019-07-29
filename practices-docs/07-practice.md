@@ -30,7 +30,9 @@
 - Security validation in CI/CD pipeline [https://docs.microsoft.com/en-us/azure/devops/articles/security-validation-cicd-pipeline?view=azure-devops][1]
 - Secure DevOps Kit for Azure [https://azsk.azurewebsites.net/][2]
 - Microsoft Security Code Analysis [https://secdevtools.azurewebsites.net/][3]
+- Also see #15 [Use Pipeline Decorators][4]
 
 [1]: https://docs.microsoft.com/en-us/azure/devops/articles/security-validation-cicd-pipeline?view=azure-devops 
 [2]: https://azsk.azurewebsites.net/
 [3]: https://secdevtools.azurewebsites.net/
+[4]: /practices-docs/15-practice.md
