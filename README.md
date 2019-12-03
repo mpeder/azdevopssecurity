@@ -45,8 +45,6 @@ If you are interested in DevSecOps from a cultural perspective I would recommend
 [14]: /practices-docs/14-practice.md
 [15]: /practices-docs/15-practice.md
 
-Current version: v1.2
+Current version: v1.3
 
-Last update: 29-07-2019
-
-Major changes: Added #15 "Use Pipeline Decorators"
+Last update: 03-12-2019
