@@ -14,6 +14,7 @@
     - Creadentials not never be checked in to your repos
     - These tools look for secrets, password and usernames in the code checked in to your repos and can then fail a build or deployments
     - An example of such a tool is the Credential Scanner (aka CredScan)
+    ![credscan][credscan]
 - External library Scanning
     - External dependencies such as Maven, NuGet or NodeJS packages will have security vulnerabilities
     - Use tools suck as Source Clear, Black Duck etc
@@ -25,6 +26,7 @@
 - Define enterprise wide baseline for all these tools
     - Consider also scanning for technical debt using a tool like SonarQube/SonarCloud
 
+[credscan]:  /images/07-credscan.png "Credscan"
 
 ## Links
 - Security validation in CI/CD pipeline [https://docs.microsoft.com/en-us/azure/devops/articles/security-validation-cicd-pipeline?view=azure-devops][1]
